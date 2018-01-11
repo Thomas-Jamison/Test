@@ -1,3 +1,2 @@
 # Test
-A Test Repository
-For testing git!
+A Test Repository for testing git
